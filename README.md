@@ -11,3 +11,7 @@ Then, the command below creates this repo.
 forge init
 ```
 
+To compile and run the tests, do:
+```
+forge test -vvv
+```
